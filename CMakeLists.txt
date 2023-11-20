@@ -4,7 +4,7 @@ project(AgentTown)
 set(CMAKE_CXX_STANDARD 20)  # Adjust as needed
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_GENERATOR_TOOLSET "v142")
-#
+
 add_subdirectory(Interfaces)
 add_subdirectory(Message_System)
 add_subdirectory(AI_Elements)
